@@ -1,0 +1,11 @@
+git init -> inisialisasi repo git
+dir ->directory
+cd .git ->change directory ke .git yang hidden
+start . ->buka folder
+git add . -> all in folder tambahin ke git
+git add namanyaapa -> masukin namanyaapa ditambah ke git
+git commit -m"pesan anda disini" ->masukin commit pake pesan
+git remote ->kosong
+git remote add namaremote urlremote
+git remote add origin www.github.com/blabla 
+git push origin master -> bisa ngepush biar aman langsung ke utamanya
